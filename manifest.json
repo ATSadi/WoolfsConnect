@@ -1,0 +1,8 @@
+{
+    "manifest_version": 2,
+    "id": "my-app-id", 
+    "name": "WOOLFS Connect app", 
+    "description": "Connect your Wallet and wait for distribution.", 
+    "url": "https://ton-react.netlify.app"
+  }
+  
